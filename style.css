@@ -1,0 +1,18 @@
+.text-red {
+    color: red ;
+    font-size: 12px;
+}
+
+.text-yellow {
+    color: yellow ;
+}
+
+.text-blue {
+    color: blue;
+    font-size: 12px;
+}
+
+.font{
+    background-color: yellow ;
+    font-size: 12px;
+}

@@ -1,0 +1,22 @@
+.around-red{
+    
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.around-blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+
+}
+
+.around-green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
